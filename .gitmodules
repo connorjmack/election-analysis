@@ -1,0 +1,6 @@
+[submodule "data/2018-elections-official"]
+	path = data/2018-elections-official
+	url = https://github.com/MEDSL/2018-elections-official.git
+[submodule "data/2022-elections-official"]
+	path = data/2022-elections-official
+	url = https://github.com/MEDSL/2022-elections-official.git
